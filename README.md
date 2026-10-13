@@ -22,7 +22,7 @@ Nmap output in the terminal gets messy fast. nmapx streams it live to a browser 
 > Requires Nmap installed on the system.
 
 ```bash
-git clone https://github.com/Dreadonyx/nmapx
+git clone https://github.com/H3M4N1H/nmapx
 cd nmapx
 pip install -r requirements.txt
 cp .env.example .env
